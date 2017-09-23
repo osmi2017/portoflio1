@@ -1,0 +1,12 @@
+1.  stdint.h is a library include in c99 that contain new type of integer
+2.  uint8_t, uint32_t, int16_t, uint32_t stand for unsigned char, unsigned short, unsigned int and unsigned long long
+3.  BYTE=8bits, DWORD=32bits, LONG=32bit, WORD=16bits
+4.  the first charactere un BMP is B and M in ASCII
+5.  bfsize store the size of BITMAPFILEHEADER+ header and bsize store the size of Header
+6.  If biHeight is negative, the bitmap is a top-down DIB with the origin at the upper left corner
+7.  The files in BITMAPINFOHEADER which specify BMP color depth is biBitCount
+8.  fopen might return NULL in lines 24 and 32 in copy.c because in can't create the output file
+9.  because we reading only one the stucture
+10. because the scanline should be a multiple of 4 so 3 pixels * 3 bytes per pixel * 3 padding=12
+11. it sets the position indicator associated with the stream to a new position
+12. Specifies that offset is a count of characters from the current file position
