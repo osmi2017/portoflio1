@@ -1,0 +1,1 @@
+I have created this website for cs50w project0. It contain 4 pages. One is a page with a slide the second present myself in my native language french, third is a tribute page also is french, and the forth one a tutorial in C

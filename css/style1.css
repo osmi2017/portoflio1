@@ -1,0 +1,37 @@
+body {
+  margin-top: 60px;
+}
+.flotte {
+float:left;
+}
+#text{
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+  font-family:"Times New Roman", Times, serif;
+}
+hr
+{
+    display: inline-block;
+    width: 100%;
+}
+.mmalogo{
+  height: 200px;
+    width: 325px;
+  float:right;
+}
+p.sous-titre
+{
+  color:red;
+  text-align: center;
+}
+p.pied-de-page
+{
+  color: grey;
+  text-align:center;
+  font-family:garamond;
+  font-size:15px;
+}
+img{
+  display: block;
+}
